@@ -7,14 +7,6 @@
   島々を探索して鍵を手に入れることで、ダンジョンの奥の扉に隠された秘密をあばく冒険ゲーム<br>見下ろし型2Dアクションゲーム
 </p>
 
-<p align="center">
-  <img src="docs/main.png" width="100%" alt="メインビジュアル">
-  <img src="docs/sub1.png" width="50%" alt="サブ1">
-  <img src="docs/sub2.png" width="50%" alt="サブ2">
-  <img src="docs/sub3.png" width="50%" alt="サブ3">
-  <img src="docs/sub4.png" width="50%" alt="サブ4">
-</p>
-
 ## 目次
 
 - [概要](#概要)
